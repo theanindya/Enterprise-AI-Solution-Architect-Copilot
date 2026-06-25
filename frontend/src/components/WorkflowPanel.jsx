@@ -37,8 +37,13 @@ function WorkflowPanel() {
                 <Typography
                     variant="h5"
                     gutterBottom
+                    
+                    sx={{
+                            color: "#009999",
+                            fontWeight: "bold"
+                        }}
                 >
-                    Multi-Agent Workflow
+                    MultiAgent Workflow
                 </Typography>
 
                 <Stack spacing={2} mt={3}>

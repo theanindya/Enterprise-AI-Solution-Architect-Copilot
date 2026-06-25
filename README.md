@@ -39,7 +39,7 @@ The application follows a modular multi-agent architecture where a React fronten
 The application allows users to describe an enterprise business challenge, select example scenarios, and automatically generate a complete AI solution architecture.
 
 
-![Landing Page](images/landing_page.jpg)
+![Landing Page](images/landing_page_new.jpg)
 
 ---
 

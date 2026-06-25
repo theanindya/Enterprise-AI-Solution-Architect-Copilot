@@ -1,12 +1,14 @@
 import { Typography, Box } from "@mui/material";
 
 function Header() {
+    const siemensTeal = "#EC6602";
+
     return (
         <Box sx={{ mb: 4 }}>
             <Typography
                 variant="h3"
                 fontWeight="bold"
-                color="primary"
+                sx={{ color: siemensTeal }}
             >
                 Enterprise AI Solution Architect Copilot
             </Typography>

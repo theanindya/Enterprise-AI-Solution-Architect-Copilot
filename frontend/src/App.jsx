@@ -92,16 +92,17 @@ The bank wants an AI assistant that answers questions while complying with secur
 >
 
                 <Typography
-    variant="subtitle1"
-    sx={{ mt: 2, mb: 1 }}
+    variant="h5"
+    sx={{ mt: 0.5, mb: 6, fontWeight: "bold", color: "#009999" }}
+    
 >
-    Try an example
+    Choose an Industry
 </Typography>
 
 <Stack
     direction="row"
-    spacing={2}
-    sx={{ mb: 2 }}
+    spacing={4}
+    sx={{ ml: 10, mb: 6 }}
 >
 
     <Chip
@@ -166,7 +167,7 @@ We want an AI assistant that understands hospital documentation and answers ques
                 <Button
                     variant="contained"
                     size="large"
-                    sx={{ mt: 3 }}
+                    sx={{ mt: 6 }}
                     onClick={generateSolution}
                 >
 
