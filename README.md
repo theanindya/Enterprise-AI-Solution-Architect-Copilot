@@ -70,6 +70,10 @@ Each agent focuses on a specific domain and contributes its expertise to generat
 
 # Technology Stack
 
+
+
+
+
 ## Frontend
 
 * React
@@ -179,7 +183,7 @@ Generated Outputs
 
 A complete end-to-end execution of the multi-agent workflow using a realistic manufacturing business challenge.
 
-📁 demos/manufacturing_mass_customization.md
+https://github.com/user-attachments/assets/3a1c43e3-0f22-410c-a6a6-606c26c14b36
 
 ---
 
