@@ -181,7 +181,7 @@ Generated Outputs
 
 ## Manufacturing – Mass Customization
 
-A complete end-to-end execution of the multi-agent workflow using a realistic manufacturing business challenge.
+The following recording demonstrates a complete execution of the multi-agent workflow using a realistic manufacturing business challenge.
 
 https://github.com/user-attachments/assets/3a1c43e3-0f22-410c-a6a6-606c26c14b36
 
