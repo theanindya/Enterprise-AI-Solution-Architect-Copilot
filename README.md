@@ -173,6 +173,16 @@ Generated Outputs
 
 ---
 
+# Example Demonstrations
+
+## Manufacturing – Mass Customization
+
+A complete end-to-end execution of the multi-agent workflow using a realistic manufacturing business challenge.
+
+📁 demos/manufacturing_mass_customization.md
+
+---
+
 # Future Improvements
 
 * Azure AI Search integration
